@@ -1,17 +1,49 @@
-# spend_wise
+# Spendwise - An expense tracker app + Todo app
 
-A new Flutter project.
+# Flutter App
 
-## Getting Started
+A simple and modern mobile application built using **Flutter and Dart**.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+* Flutter
+* Dart
+* SharedPreferences
+* Google Fonts
+* Intl
+* Cupertino Icons
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repository and install the dependencies:
+
+```bash
+git clone <your-repository-url>
+cd <project-folder>
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+### Windows Users
+
+If Flutter shows a **"Building with plugins requires symlink support"** error, enable **Developer Mode** in Windows Settings and then run:
+
+```bash
+flutter clean
+flutter pub get
+flutter run
+```
+
+## 👨‍💻 Author
+
+**Tarni Verma**
+
+## Screenshots :)
+
+<img width="372" height="543" alt="Screenshot 2026-09-02 012932" src="https://github.com/user-attachments/assets/1598e5cd-36c2-4c91-890f-806245178f6c" />
+<img width="369" height="539" alt="Screenshot 2026-09-02 013010" src="https://github.com/user-attachments/assets/34501992-e400-40f0-a4ed-2b72b23ac751" />
